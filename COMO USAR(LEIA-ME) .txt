@@ -1,0 +1,13 @@
+CONFIGURAÇÃO!!
+
+Ao abrir o aplicativo primeiro é necessário colocar as informações de quem irá enviar os emails
+que se encontra na unity UConsts (Recomendo criar um email novo apenas para isso), após isso seguir os
+passos do vídeo abaixo para gerar uma senha única para o aplicativo utilizar. 
+Lembre-se de colocar a senha gerada na constante 'PASSWORD'.
+
+https://www.youtube.com/watch?v=jjUUM0XNg88&t=409s
+
+BIBLIOTECAS!!
+
+O aplicativo utiliza 2 bibliotecas DLL que vão estar na 'Bibliotecas.zip', as bibliotecas precisam ser colocadas
+na pasta onde o Executável vai estar.

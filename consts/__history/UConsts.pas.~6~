@@ -1,0 +1,14 @@
+unit UConsts;
+
+interface
+
+const
+  EMAIL = '';
+  PASSWORD = '';
+  PORTA = 587;
+  SMTP = '';
+
+
+implementation
+
+end.

@@ -1,0 +1,15 @@
+unit UConsts;
+
+interface
+
+const
+  NAME = 'TesteDelphiEmail';
+  EMAIL = 'testedelphiemaildevs@gmail.com';
+  PASSWORD = 'pxieekcujpyeyaxh';
+  PORTA = 587;
+  SMTP = 'smtp.gmail.com';
+
+
+implementation
+
+end.

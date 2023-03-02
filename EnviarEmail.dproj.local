@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/02 12:51:29.000.712,=C:\Users\Guilh\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 12:52:11.000.806,C:\Users\Guilh\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Guilh\OneDrive\Documentos\DelphiEmail\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/03/02 12:52:11.000.806,C:\Users\Guilh\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Guilh\OneDrive\Documentos\DelphiEmail\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/03/02 12:54:43.000.205,=C:\Users\Guilh\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 12:55:03.000.276,C:\Users\Guilh\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Guilh\OneDrive\Documentos\DelphiEmail\consts\UConsts.pas</Transaction>
+    <Transaction>2023/03/02 12:55:10.000.446,C:\Users\Guilh\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Guilh\OneDrive\Documentos\DelphiEmail\Project1.dproj</Transaction>
+    <Transaction>2023/03/02 13:47:54.453,C:\Users\Guilh\OneDrive\Documentos\DelphiEmail\EnviarEmail.dproj=C:\Users\Guilh\OneDrive\Documentos\DelphiEmail\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

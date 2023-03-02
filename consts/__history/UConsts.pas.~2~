@@ -1,0 +1,9 @@
+unit UConsts;
+
+interface
+
+const EMAIL = '';
+
+implementation
+
+end.
